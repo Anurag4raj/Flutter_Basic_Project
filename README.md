@@ -1,1 +1,8 @@
-# Flutter_Basic_Project
+# test_app_flutter
+
+A test Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
